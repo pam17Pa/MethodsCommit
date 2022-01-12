@@ -14,6 +14,7 @@ namespace PolkaGit
             SumNumbers();
             SayHi();
             Stan();
+            BuyMeAnAlbum();
         }
         static void SayHi()
         {
