@@ -11,6 +11,11 @@ namespace PolkaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Some exercise...");
+           
+        }
+        public void SayHi()
+        {
+            Console.WriteLine("Hi, lollies <3");
         }
     }
 }
