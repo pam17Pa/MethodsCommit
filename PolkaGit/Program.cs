@@ -22,5 +22,9 @@ namespace PolkaGit
             int num1 = 4, num2 = 7;
             Console.WriteLine($"The sum of num1 and num2  is {num1+num2}");
         }
+        public void Stan()
+        {
+            Console.WriteLine("Stan Ateez!!!!!");
+        }
     }
 }
